@@ -10,11 +10,11 @@
 
 </div>
 
-## <a name="introduction">🤖 Introduction</a>
+## <a name="introduction">Introduction</a>
 
 Brainwave is a modern UI/UX website developed using React.js and Tailwind CSS. It showcases contemporary design principles, with a sleek interface, smooth animations, and a focus on user experience. This project serves as a strong example and inspiration for building modern web applications. Thanks to JSMastery
 
-## <a name="tech-stack">⚙️ Tech Stack</a>
+## <a name="tech-stack">Tech Stack</a>
 
 - Vite
 - React.js
